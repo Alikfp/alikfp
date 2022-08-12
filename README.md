@@ -1,16 +1,22 @@
 ### Hi there 👋
+ 
+<a href="https://twitter.com/kafaeiali">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://twitter.com/kafaeiali">
+  <img align="left" alt= | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://au.linkedin.com/in/ali-kafaei-0a95641a1">
+  <img align="left" alt= width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**Alikfp/alikfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Here is a bit about me ✨
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🧑🏽‍💻 I work as a Data Scientist at National Autralian Bank 🪃
+- 📖 I am studying a double degree of Computer Science and Ecometrics at Monash University, Melbourne, Australia.
+- 🔭 Recently I have been reading about history, economics, Tech, travelling and etc.
+- 👯 I’m happy to collaborate on any crazy idea you might have!
+- 🤔 I'm planning to become a Machine Learning engineer.
+- 💬 We can have a chat about Computer science, philosophy, statistics, Startups, Persian history & culture, economics and etc. 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: **I watch random lectures in my spare time!**
