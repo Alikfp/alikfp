@@ -14,7 +14,7 @@
 
 ## ✨ Here is a bit about me ✨
 
-- 🧑🏽‍💻 I work as a *Data Scientist at National Autralian Bank* 🪃
+- 🧑🏽‍💻 I work as a *Developer / Research Assistant at Monash University* 🪃
 - 📖 I am studying a double degree of **Computer Science and Econometrics** at Monash University.
 - 🔭 Recently I have been reading about history, economics, Tech, travelling and etc.
 - 👯 I’m happy to collaborate on any crazy idea you might have!
