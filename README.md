@@ -4,7 +4,7 @@
   <img align="left" alt="Ali Kafaei | Medium" width="24px" src="1_psYl0y9DUzZWtHzFJLIvTw.png" />
 </a>
 <a href="https://twitter.com/kafaeiali">
-  <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" width="24px" src="800px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://au.linkedin.com/in/ali-kafaei-0a95641a1">
   <img align="left" alt= "Ali Kafaei | Linkedin" width="24px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
