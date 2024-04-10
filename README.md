@@ -14,11 +14,11 @@
 
 ## ✨ Here is a bit about me ✨
 
-- 🧑🏽‍💻 I work as a *Developer / Research Assistant at Monash University* 🪃
-- 📖 I am studying a double degree of **Computer Science and Econometrics** at Monash University.
+- 🧑🏽‍💻 I work as a *Developer / System designer* 
+- 📖 Studied a double degree of **Computer Science and Econometrics** at Monash University. 🪃
 - 🔭 Recently I have been reading about history, economics, Tech, travelling and etc.
 - 👯 I’m happy to collaborate on any crazy idea you might have!
-- 🤔 I'm planning to become a Machine Learning engineer.
+- 🤔 I'm planning to try as many things as possible, particularly in the startup world
 - 💬 We can have a chat about Computer science, philosophy, statistics, Startups, Persian history & culture, economics and etc. 
 - 📫 How to reach me: Linkedin, Twitter and medium blogs are linked at the top of this page!
 - ⚡ Fun fact: **I watch random lectures in my spare time!**
